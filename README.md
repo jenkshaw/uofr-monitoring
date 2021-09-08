@@ -20,7 +20,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://jenkshaw.github.io/upptime)
+[**Visit our status website →**](https://jenkshaw.github.io/uofr-monitoring)
 
 ## 📄 License
 
