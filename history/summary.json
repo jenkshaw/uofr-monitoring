@@ -4,19 +4,19 @@
     "url": "https://www.uregina.ca",
     "icon": "https://favicons.githubusercontent.com/www.uregina.ca",
     "slug": "uof-r-primary",
-    "status": "down",
-    "uptime": "99.82%",
-    "uptimeDay": "88.39%",
-    "uptimeWeek": "98.34%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "99.82%",
+    "status": "up",
+    "uptime": "99.80%",
+    "uptimeDay": "87.73%",
+    "uptimeWeek": "98.25%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.80%",
     "time": 392,
-    "timeDay": 309,
-    "timeWeek": 333,
-    "timeMonth": 447,
+    "timeDay": 330,
+    "timeWeek": 341,
+    "timeMonth": 446,
     "timeYear": 392,
     "dailyMinutesDown": {
-      "2021-11-10": 168
+      "2021-11-10": 178
     }
   }
 ]
