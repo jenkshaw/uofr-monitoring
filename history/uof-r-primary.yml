@@ -1,7 +1,7 @@
 url: https://www.uregina.ca
-status: up
-code: 200
-responseTime: 269
-lastUpdated: 2021-11-29T23:05:11.662Z
+status: down
+code: 403
+responseTime: 368
+lastUpdated: 2021-11-30T14:56:26.585Z
 startTime: Wed Sep 08 2021 16:56:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
